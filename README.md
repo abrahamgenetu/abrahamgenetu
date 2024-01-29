@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abrahamgenetu
-- 👀 I’m interested in Machine learning and backend development specially.
-- 🌱 I’m currently learning deep learning for medicine.
-- 💞️ I’m looking to collaborate on ML related Projects
+- 👀 I’m interested in Machine learning and backend development.
+- 🌱 I’m currently learning computational medicine.
+- 💞️ I’m looking to collaborate on biocomputational Projects
 - 📫 How to reach me ...
               abrahamgenetu.netlify.me
 <!---

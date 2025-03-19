@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abraham G. Taye</h1>
-<h3 align="center">Biomedical Engineer | Machine Learning & Backend Developer | Medical Imaging Researcher |
+<h3 align="center">Biomedical Engineer | Machine Learning | Medical Imaging Researcher |
 </h3>
 <p>
-Experienced Data Scientist with over five years of experience and a master’s degree in computer science from Marquette University, specializing in Machine Learning and Artificial Intelligence. Highly skilled in structuring and optimizing large datasets for AI model development. Proficient in designing, developing, and evaluating advanced machine learning systems, including fine-tuning Large Language Models (LLMs) and implementing complex retrieval algorithms. Demonstrated leadership in projects that enhance operational efficiencies and drive innovation in technical and analytical fields.
+Biomedical engineering graduate student and liaison, specializing in computational and medical image processing, with a strong focus on pulmonary function and acute lung injury (ALI). My research involves developing and validating models to study the pathogenesis of ALI across molecular, cellular, and organ levels, integrating experimental and functional imaging (optical, SPECT) results to enhance the understanding of research. 
+
+As a Medical Image Analysis Intern at Durametrix, I work on analyzing CT, MR, and SPECT images for toxicity quantification, segmentation, and multi-modal image registration. I am deeply passionate about harnessing AI/ML, computer vision, and computational modeling to advance the understanding and treatment of complex pathophysiological conditions.
+
+I am also a passionate aspiring software engineer, with a self-motivated interest showcased through internships (ML and Django backend @IcogLabs), competition awards (Huawei ICT Regional and National 2023), and demo projects (malar-ai, Branagram,...).
 
 <h3 align="left">🏆 Technical Skills </h3>
 

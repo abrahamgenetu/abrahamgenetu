@@ -2,7 +2,9 @@
 <h3 align="center">Biomedical Engineer | Machine Learning | Medical Imaging Researcher |
 </h3>
 <p>
-Biomedical engineering graduate student and liaison, specializing in computational and medical image processing, with a strong focus on pulmonary function and acute lung injury (ALI). My research involves developing and validating models to study the pathogenesis of ALI across molecular, cellular, and organ levels, integrating experimental and functional imaging (optical, SPECT) results to enhance the understanding of research. I also work on with CT, MR, and SPECT imaging for toxicity quantification, segmentation, and multi-modal image registration. I am deeply passionate about harnessing AI/ML, computer vision, and computational modeling to advance the understanding and treatment of complex pathophysiological conditions.
+Biomedical Engineering graduate student and imaging research specialist, with expertise in nuclear imaging, detector systems, and computational modeling. I focus on SPECT and CT imaging, developing and validating models for photon transport, image reconstruction, and collimator/detector performance. My research integrates experimental and functional imaging data to quantify physiological processes and optimize imaging system design. 
+
+Experienced in multi-modal image registration, segmentation, and quantitative analysis, I leverage AI/ML and computational simulations to evaluate imaging system metrics such as sensitivity, spatial resolution, uniformity, and septal penetration. Passionate about advancing nuclear imaging hardware and software, I aim to contribute to innovative SPECT/PET system development and optimization for improved clinical outcomes.
 
 <h3 align="left">🏆 Technical Skills </h3>
 

@@ -2,11 +2,7 @@
 <h3 align="center">Biomedical Engineer | Machine Learning | Medical Imaging Researcher |
 </h3>
 <p>
-Biomedical engineering graduate student and liaison, specializing in computational and medical image processing, with a strong focus on pulmonary function and acute lung injury (ALI). My research involves developing and validating models to study the pathogenesis of ALI across molecular, cellular, and organ levels, integrating experimental and functional imaging (optical, SPECT) results to enhance the understanding of research. 
-
-As a Medical Image Analysis Intern at Durametrix, I work on analyzing CT, MR, and SPECT images for toxicity quantification, segmentation, and multi-modal image registration. I am deeply passionate about harnessing AI/ML, computer vision, and computational modeling to advance the understanding and treatment of complex pathophysiological conditions.
-
-I am also a passionate aspiring software engineer, with a self-motivated interest showcased through internships (ML and Django backend @IcogLabs), competition awards (Huawei ICT Regional and National 2023), and demo projects (malar-ai, Branagram,...).
+Biomedical engineering graduate student and liaison, specializing in computational and medical image processing, with a strong focus on pulmonary function and acute lung injury (ALI). My research involves developing and validating models to study the pathogenesis of ALI across molecular, cellular, and organ levels, integrating experimental and functional imaging (optical, SPECT) results to enhance the understanding of research. I also work on with CT, MR, and SPECT imaging for toxicity quantification, segmentation, and multi-modal image registration. I am deeply passionate about harnessing AI/ML, computer vision, and computational modeling to advance the understanding and treatment of complex pathophysiological conditions.
 
 <h3 align="left">🏆 Technical Skills </h3>
 
@@ -35,6 +31,7 @@ I am also a passionate aspiring software engineer, with a self-motivated interes
 </ul>
 
 <ul>
+    <li>SPECT Collimator Simulation & Optimization- Monte Carlo Photon Transport Analysis</li>
     <li>Branagram - Robust and scalable Django backend for a social media platform with various features</li>
     <li>VisionLabs - Django based web platform for vision impairment.</li>
 </ul>

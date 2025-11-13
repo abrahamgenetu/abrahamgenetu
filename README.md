@@ -8,8 +8,8 @@ Experienced in multi-modal image registration, segmentation, and quantitative an
 
 <h3 align="left">🏆 Technical Skills </h3>
 
-- **Programming Languages**: Python, C++, Java, R, Scala, JavaScript, SQL
-- **Machine Learning & Deep Learning**: TensorFlow, PyTorch, Scikit-learn, Keras
+- **Programming Languages**: Python, MATLAB, C++, Java, JavaScript, SQL
+- **Machine Learning & Deep Learning**: TensorFlow, PyTorch, Scikit-learn, Keras, Numpy
 - **Natural Language Processing**: NLP libraries (NLTK, spaCy), BERT, GPT-3, T5, Hugging Face Transformers
 - **Data Engineering**: SQL/NoSQL databases (MySQL, PostgreSQL, MongoDB)
 - **APIs and Microservices**: RESTful API development, FastAPI, Flask, Django, Microservices architecture

@@ -4,16 +4,12 @@
 <p>
 Biomedical Engineering graduate student and imaging research specialist, with expertise in nuclear imaging, detector systems, and computational modeling. I focus on SPECT and CT imaging, developing and validating models for photon transport, image reconstruction, and collimator/detector performance. My research integrates experimental and functional imaging data to quantify physiological processes and optimize imaging system design. 
 
-Experienced in multi-modal image registration, segmentation, and quantitative analysis, I leverage AI/ML and computational simulations to evaluate imaging system metrics such as sensitivity, spatial resolution, uniformity, and septal penetration. Passionate about advancing nuclear imaging hardware and software, I aim to contribute to innovative SPECT/PET system development and optimization for improved clinical outcomes.
-
 <h3 align="left">🏆 Technical Skills </h3>
 
 - **Programming Languages**: Python, MATLAB, C++, Java, JavaScript, SQL
 - **Machine Learning & Deep Learning**: TensorFlow, PyTorch, Scikit-learn, Keras, Numpy
-- **Natural Language Processing**: NLP libraries (NLTK, spaCy), BERT, GPT-3, T5, Hugging Face Transformers
-- **Data Engineering**: SQL/NoSQL databases (MySQL, PostgreSQL, MongoDB)
 - **APIs and Microservices**: RESTful API development, FastAPI, Flask, Django, Microservices architecture
-- **Tools and Platforms**: Cloud platforms (AWS, Azure, GCP), Docker, Kubernetes, GitHub, Jupyter Notebook
+- **Tools and Platforms**: Cloud platforms (AWS), Docker, Kubernetes, GitHub, Jupyter Notebook
 
 
 

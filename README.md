@@ -2,7 +2,7 @@
 <h3 align="center">Biomedical Engineer | Medical Imaging Researcher |
 </h3>
 <p>
-Biomedical Engineering graduate student and imaging research specialist, with expertise in nuclear imaging, detector systems, and computational modeling. I focus on SPECT and CT imaging, developing and validating models for photon transport, image reconstruction, and collimator/detector performance. My research integrates experimental and functional imaging data to quantify physiological processes and optimize imaging system design. 
+Biomedical Engineering graduate student and imaging researcher, working with in nuclear imaging, detector systems, and computational modeling. I focus on SPECT and CT imaging, developing and validating models for photon transport, image reconstruction, and collimator/detector performance. My research integrates experimental and functional imaging data to quantify physiological processes and optimize imaging system design. 
 
 <h3 align="left"> Technical Skills </h3>
 
@@ -16,7 +16,7 @@ Biomedical Engineering graduate student and imaging research specialist, with ex
 <h3 align="left"> Education</h3>
 <ul>
     <li><strong>Master's in Biomedical Engineering (Medical Imaging Specialization)</strong> - Marquette University (To graduate: Dec 2025 )</li>
-    <li><strong>B.S. in Biomedical Engineering ( Bio-Computation)</strong> - Addis Ababa University (Graduated: Jun 2023)</li>
+    <li><strong>B.S. in Biomedical Engineering</strong> - Addis Ababa University (Graduated: Jun 2023)</li>
 </ul>
 
 <h3 align="left">  Projects </h3>
